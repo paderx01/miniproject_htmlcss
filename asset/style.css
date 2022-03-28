@@ -1,6 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
+    background-color: rgb(245, 200, 182);
 }
 
 img {
@@ -20,5 +21,5 @@ img {
 }
 
 .topnav {
-    background-color: aqua;
+    background-color: rgba(244, 163, 255, 0.493);
 }
